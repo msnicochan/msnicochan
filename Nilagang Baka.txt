@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1>Nilagang Baka Recipe</h1>
+	<img src="https://panlasangpinoy.com/wp-content/uploads/2021/06/nilagang-baka.jpg" width="1000px" height="650px"/>
+	<p><strong>Nilagang Baka is a dish that people have been cooking for quite a long time.</strong</p>
+	<p><strong>In fact, it arrived in the Philippines even before the colonial era, as Austronesians introduced the technique of boiling food.</strong></p>
+	<p><strong>And as such, people thought to boil their beef, and integrate a couple of spices.</strong></p>
+	<p><strong>To build the entire meal, they also added vegetables such as potatoes, cabbage and onions, all of which we still use in today’s recipe.</strong></p>
+</body>
+
+<body>
+	<h1>Ingredients</h1>
+<ul>
+<li>2 lbs. beef sirloin cubed</li>
+<li>2 bunches baby bok choy or pechay</li>
+<li>1 piece cabbage</li>
+<li>6 pieces Saba banana halved</li>
+<li>4 pieces baking potato quartered</li>
+<li>1 piece white onion halved</li>
+<li>4 staks celery chopped</li>
+<li>1 piece star anise</li>
+<li>4 cups beef broth</li>
+<li>4 cups water</li>
+<li>Salt and pepper to taste</li>
+</ul>
+
+</body
+
+<body>
+
+<h1>STEPS</h1>
+<ol>	
+<li>Combine the water and beef broth in a large cooking pot. Bring to a boil.</li>
+<li>Add the onion, star anise, and celery. Reduce the heat in medium. Cover the pot and continue to boil for 20 minutes.</li>
+<li>Remove the onion, star anise, and celery from the boiling liquid using a skimmer or a strainer. You can discard these ingredients.</li>
+<li>Add the beef. Simmer for 60 to 90 minutes or until the beef becomes tender. You can add more water if necessary.</li>
+<li>Put-in the saba banana and potatoes. Cook for 10 minutes.</li>
+<li>Add the bok choy and cabbage. Sprinkle salt and pepper. Stir.</li>
+<li>Cover and turn the heat off. Let the pot stay with cover-on for 2 to 5 minutes to cook the vegetables.</li>
+<li>Transfer to a serving bowl.</li>
+<li>Serve. Share and enjoy!</li>
+<li>Serve hot with shrimp paste. Enjoy!</li>
+</ol>
+</body>
+</html>
