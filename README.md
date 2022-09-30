@@ -46,9 +46,9 @@
 <body>
 	<h1>Other Recipe</h1>
 	<ol>
-		<li><a href="https://github.com/msnicochan/Others-Recipe/blob/main/README.md">Kare-kare</a></li>
-	<li><a href="https://github.com/msnicochan/sinigangnasinigangnahipon/blob/main/README.md">Sinigang na Hipon</a></li>
-		<li><a href="https://github.com/msnicochan/NilagangBaka/blob/main/README.md">Nilagang Baka</a></li>
+		<li><a href="https://github.com/msnicochan/msnicochan/blob/index.html/Karekare.txt">Kare-kare</a></li>
+	<li><a href="https://github.com/msnicochan/msnicochan/blob/index.html/Sinigang%20na%20Hipon.txt">Sinigang na Hipon</a></li>
+		<li><a href="https://github.com/msnicochan/msnicochan/blob/index.html/Nilagang%20Baka.txt">Nilagang Baka</a></li>
 	</ol>
 
 </body>
