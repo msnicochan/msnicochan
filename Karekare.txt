@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1>Kare-kare Recipe</h1>
+	<img src="http://www.foodies.ph/_recipeimage/267792/kare-kare-1.jpg" width="300px" height="200px"/>
+	<p><strong>Kare-kare is a Philippine stew that features a thick savory peanut sauce.</strong</p>
+	<p><strong>It is generally made from a base of stewed oxtail, beef tripe, pork hocks, calves' feet, pig's feet or trotters, various cuts of pork, beef stew meat, and occasionally offal.</strong></p>
+
+</body>
+
+<body>
+	<h1>Ingredients</h1>
+<ul>
+<li>3 lbs oxtail cut in 2 inch slices you an also use tripe or beef slices</li>
+<li>1 piece small banana flower bud sliced</li>
+<li>1 bundle pechay or bok choy</li>
+<li>1 bundle string beans cut into 2 inch slices</li>
+<li>4 pieces eggplants sliced</li>
+<li>1 cup ground peanuts</li>
+<li>1/2 cup peanut butter</li>
+<li>1/2 cup shrimp paste</li>
+<li>34 Ounces water about 1 Liter</li>
+<li>1/2 cup annatto seeds soaked in a cup of water</li>
+<li>1/2 cup toasted ground rice</li>
+<li>1 tbsp garlic minced</li>
+<li>1 piece onion chopped</li>
+<li>salt and pepper</li>
+</ul>
+
+</body
+
+<body>
+
+<h1>STEPS</h1>
+<ol>	
+<li>In a large pot, bring the water to a boil</li>
+<li>Put in the oxtail followed by the onions and simmer for 2.5 to 3 hrs or until tender (35 minutes if using a pressure cooker)</li>
+<li>Once the meat is tender, add the ground peanuts, peanut butter, and coloring (water from the annatto seed mixture) and simmer for 5 to 7 minutes</li>
+<li>Add the toasted ground rice and simmer for 5 minutes</li>
+<li>On a separate pan, saute the garlic then add the banana flower, eggplant, and string beans and cook for 5 minutes</li>
+<li>Transfer the cooked vegetables to the large pot (where the rest of the ingredients are)</li>
+<li>Add salt and pepper to taste</li>
+<li>Serve hot with shrimp paste. Enjoy!</li>
+</ol>
+</body>
+</html>
